@@ -1,0 +1,29 @@
+[
+    {
+        "function": "run",
+        "help": "command help",
+        "value": "command"
+    },
+    {
+        "function": "run",
+        "help": "execute help",
+        "value": "execute"
+    },
+    {
+        "function": "run",
+        "value": "list"
+    },
+    {
+        "function": "parse",
+        "help": "file help",
+        "value": "file"
+    },
+    {
+        "function": "copy",
+        "help": "copy help",
+        "value": "file"
+    },
+    {
+        "value": "bad value"
+    }
+]
